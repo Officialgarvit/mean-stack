@@ -1,0 +1,4 @@
+we use bootstrap to design UI.
+bootstrap devide site into 12 diffrent coloumns whether its of a mobile screen or a computers screen.
+and each equal coloumn is called grid.
+Grid cannot be devided into fraction.
